@@ -1,0 +1,14 @@
+[
+  {
+    "username": "john.doe@gmail.com",
+    "password": "plaintextpasswordsarebad"
+  },
+  {
+    "username": "jane.doe@gmail.com",
+    "password": "asareinsecurejsonfiles"
+  },
+  {
+    "username": "MM",
+    "password": "abc123"
+  }
+]
